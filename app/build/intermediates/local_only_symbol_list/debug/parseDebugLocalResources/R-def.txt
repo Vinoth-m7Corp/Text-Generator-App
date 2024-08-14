@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color display_small
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color text_medium
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable onboarding1
+drawable onboarding2
+drawable onboarding3
+drawable splash_ic_background
+drawable splash_ic_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap splash_ic
+mipmap splash_ic_round
+string app_name
+style Theme.Splash.Screen
+style Theme.TextGenerator
+xml backup_rules
+xml data_extraction_rules

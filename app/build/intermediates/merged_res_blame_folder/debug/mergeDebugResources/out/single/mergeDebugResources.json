@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-hdpi_splash_ic.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-hdpi/splash_ic.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.devbuvan.textgenerator.app-debug-45:/drawable_onboarding2.png.flat",
+        "source": "com.devbuvan.textgenerator.app-main-47:/drawable/onboarding2.png"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/drawable_splash_ic_foreground.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/drawable/splash_ic_foreground.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-anydpi-v26_splash_ic.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-anydpi-v26/splash_ic.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.devbuvan.textgenerator.app-debug-45:/drawable_onboarding3.png.flat",
+        "source": "com.devbuvan.textgenerator.app-main-47:/drawable/onboarding3.png"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xhdpi_splash_ic_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xhdpi/splash_ic_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-mdpi_splash_ic.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-mdpi/splash_ic.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxhdpi_splash_ic_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxhdpi/splash_ic_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-hdpi_splash_ic_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-hdpi/splash_ic_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/drawable_splash_ic_background.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/drawable/splash_ic_background.xml"
+    },
+    {
+        "merged": "com.devbuvan.textgenerator.app-debug-45:/drawable_onboarding1.png.flat",
+        "source": "com.devbuvan.textgenerator.app-main-47:/drawable/onboarding1.png"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxhdpi_splash_ic.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxhdpi/splash_ic.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxxhdpi_splash_ic.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxxhdpi/splash_ic.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-mdpi_splash_ic_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-mdpi/splash_ic_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxxhdpi_splash_ic_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxxhdpi/splash_ic_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-anydpi-v26_splash_ic_round.xml.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-anydpi-v26/splash_ic_round.xml"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-debug-45:/mipmap-xhdpi_splash_ic.webp.flat",
+        "source": "/Users/vinoth/.gradle/daemon/8.7/com.devbuvan.textgenerator.app-main-47:/mipmap-xhdpi/splash_ic.webp"
+    }
+]
